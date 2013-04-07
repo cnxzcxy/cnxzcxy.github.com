@@ -1,6 +1,6 @@
 ---
 layout: page
-title : Archive
+title : Index
 header : Post Archive
 group: navigation
 ---
