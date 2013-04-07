@@ -1,8 +1,10 @@
 ---
 layout: page
-title : Index
+title: terrychang <cnxzcxy@gmail.com>
+tagline: 
 ---
 {% include JB/setup %}
 
-{% assign posts_collate = site.posts %}
-{% include JB/posts_collate %}
+有事没事，随便写写。
+
+welcome to my blog on Github, please visit [Archive](./archive.html)
