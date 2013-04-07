@@ -1,8 +1,6 @@
 ---
 layout: page
 title : Index
-header : Post Archive
-group: navigation
 ---
 {% include JB/setup %}
 
